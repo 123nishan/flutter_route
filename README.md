@@ -1,6 +1,6 @@
 # flutterroute
 
-A new Flutter application.
+A new Flutter application. Route your application in web like normal website
 
 ## Getting Started
 
